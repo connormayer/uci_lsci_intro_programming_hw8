@@ -1,15 +1,11 @@
-# uci_lsci_intro_programming_hw1
-The first homework assignment from LSCI 109: Introduction to Programming for Language Science
+# uci_lsci_intro_programming_hw8
+The eight homework assignment from LSCI 109: Introduction to Programming for Language Science
 
-This homework consists of 5 problems, one in each of the following Python scripts:
-* factorial.py
-* foobar.py
-* grade_calculator.py
-* leap_year.py
-* vowel_counter.py
+This homework consists of 2 problems, one in each of the following Python scripts:
+* regex.py
+* pep8.py
 
-Each Python script has some code that you will need to fill in. Descriptions of 
-each problem can be found in comments in the scripts.
+Descriptions of each problem can be found in the assignment document on Canvas.
 
 Instructions for how to submit your assignment can be found in the Lab 2 handout.
 
